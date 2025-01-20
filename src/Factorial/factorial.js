@@ -7,3 +7,5 @@ const factotial = (number) => {
   };
 
   const power = (a, b) => a ** b;  
+
+  const max = (a, b) => Math.max(a, b);  
